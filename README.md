@@ -16,20 +16,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sancaaa/" target="_blank">
+  <a href="https://www.linkedin.com/in/i-gede-puterayasa-7715a5317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://discord.com/users/iaido2639" target="_blank">
+  <a href="https://discord.com/channels/1421290362546294824/1421290363015925836" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="https://www.youtube.com/@ytsanca/featured" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/narendera_sancaya/" target="_blank">
+  <a href="https://www.instagram.com/traaa._1?igsh=dmdsOHM1ZDljcWNh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://medium.com/@narenderasancaya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
   </a>
 </div>
 
