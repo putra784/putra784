@@ -72,9 +72,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="excel.svg.png" height="40" alt="excel logo" />
-  <img width="12" />
-  <img src="ppt.svg.png" height="40" alt="powerpoint logo" />
 </div>
 
 ###
