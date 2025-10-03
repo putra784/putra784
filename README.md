@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🖥️ Exploring low-level programming and system internals.<br>🌐 Delving into networking concepts and building robust systems.<br>🕵️‍♂️ Solving CTF challenges for fun.<br>⚡ Trying to learn embedded systems.</p>
+<p align="left">🖥️ Exploring medium until high-level programming and system internals.<br>🌐 Design UI/UX and building front end website.<br>🕵️‍♂️ Solving programming challenges for fun.<br></p>
 
 ###
 
