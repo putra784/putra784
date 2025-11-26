@@ -65,7 +65,7 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://unpkg.com/simple-icons@latest/icons/tailwindcss.svg" height="40" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" height="40" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img width="12"/>
